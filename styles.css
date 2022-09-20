@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(46, 46, 46);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    overflow: hidden;
+    margin: 0;
+}
